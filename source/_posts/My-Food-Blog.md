@@ -8,7 +8,7 @@ tags:
 📍波WAVE Jaffa Cuisine Lab
 </a>
 </h2>
-<img src="./images/1.JPG" alt="Food Description" style="width: 50%;" />
+<img src="./images/1_converted.jpg" alt="Food Description" style="width: 50%;" />
 專賣傳統以色列料理的家常小店，鷹嘴豆泥口感滑順，是台灣極少見的異國料理餐廳，店內裝潢很漂亮溫馨，每道都是味蕾的饗宴！<br>
 📌檸檬娜娜＄150<br>
 📌雞肉沙威瑪鷹嘴豆泥套餐（以色列沙拉／以色列小菜三份／皮塔餅）＄420<br>
